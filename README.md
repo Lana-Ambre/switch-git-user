@@ -1,1 +1,1 @@
-# switch-gituser
+# Switch Git User — npm package
